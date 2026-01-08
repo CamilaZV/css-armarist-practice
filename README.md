@@ -29,4 +29,7 @@ It was made only for **learning and practice purposes**.
 
 - Static homepage layout
 - Responsive design for screens **under 576px**
-- Media que
+- Media queries for mobile view
+- Clean and simple structure
+- No JavaScript
+- No backend
